@@ -242,11 +242,12 @@ p,
     height: 100%;
     width: 100%;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     list-style-type: none;
     overflow-x: hidden;
     gap: 1.5em;
+    margin-top: 10em;
 }
 
 
@@ -726,6 +727,7 @@ FOOTER
         align-items: flex-start;
         gap: 1em;
         width: fit-content;
+        margin-top: 0;
     }
 
     .nav-items {
