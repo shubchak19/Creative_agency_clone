@@ -235,7 +235,6 @@ p,
 .nav-open {
     width: 60vw;
     max-width: 500px;
-    box-shadow: -5px 0 80px 10px rgba(0, 0, 0, 0.2);
 }
 
 .nav-menu {
