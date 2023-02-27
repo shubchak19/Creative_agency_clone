@@ -229,7 +229,7 @@ p,
     width: 0;
     background-color: #FFFFFF;
     transition: width 0.2s;
-    height: 100vh;
+    height: 110vh;
 }
 
 .nav-open {
@@ -715,6 +715,7 @@ FOOTER
 
     .navigation {
         width: fit-content;
+        height: fit-content;
         position: static;
         background-color: transparent;
     }
